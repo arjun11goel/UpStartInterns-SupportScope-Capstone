@@ -1,0 +1,11 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+reports/evaluation_results.json
+reports/evaluation_results.csv
+reports/evaluation_summary.md
+.DS_Store

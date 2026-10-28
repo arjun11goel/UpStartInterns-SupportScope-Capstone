@@ -1,0 +1,50 @@
+[
+  {
+    "source_id": "SHIP-01",
+    "title": "Shipping and delivery",
+    "content": "Orders are normally dispatched within 1-2 business days. Standard shipping usually takes 3-5 business days after dispatch. A tracking link is sent to the customer's email when the order ships. Delivery dates are estimates and are not guaranteed. Customers can check the tracking link for the latest shipment status.",
+    "keywords": ["shipping", "delivery", "parcel", "package", "shipment", "tracking", "late", "delayed", "dispatch", "arrival", "where is my order"]
+  },
+  {
+    "source_id": "RETURN-01",
+    "title": "Returns and eligibility",
+    "content": "Unused and unopened items may be returned within 30 calendar days of delivery, provided they are in their original packaging. Final-sale items cannot be returned. Start a return request through customer support and include the order number. Do not send passwords, one-time passcodes, or payment-card security details in a support request.",
+    "keywords": ["return", "exchange", "send back", "refund eligibility", "unused", "unopened", "final sale", "wrong size", "original packaging", "order number"]
+  },
+  {
+    "source_id": "REFUND-01",
+    "title": "Refund timing and method",
+    "content": "Once a returned item has been inspected and the refund is approved, the refund is sent to the original payment method within 5-10 business days. A bank or payment provider may take additional time to display the funds. Original shipping fees are not refundable unless the return is caused by a store error or a damaged item.",
+    "keywords": ["refund", "money back", "reimbursement", "original payment method", "bank", "processing time", "inspection", "shipping fee"]
+  },
+  {
+    "source_id": "CANCEL-01",
+    "title": "Order cancellation",
+    "content": "An order can be cancelled within 2 hours of placement if it has not yet shipped. Once an order has shipped, it cannot be cancelled. After delivery, eligible items can be submitted through the standard return process. A cancellation request is not confirmation that an order has been cancelled; wait for customer-support confirmation.",
+    "keywords": ["cancel", "cancellation", "stop order", "change order", "before shipping", "shipped", "placed an order", "two hours"]
+  },
+  {
+    "source_id": "DAMAGED-01",
+    "title": "Damaged or incorrect items",
+    "content": "Report a damaged or incorrect item within 7 calendar days of delivery. Contact customer support with the order number and clear photos of the item and packaging. The support team reviews the evidence and determines whether a replacement or refund is appropriate. Do not include passwords, one-time passcodes, or full payment-card details in the report.",
+    "keywords": ["damaged", "broken", "defective", "incorrect item", "wrong item", "missing item", "photos", "replacement", "seven days", "arrived damaged"]
+  },
+  {
+    "source_id": "WARRANTY-01",
+    "title": "Product warranty",
+    "content": "Eligible products include a one-year limited warranty for manufacturing defects. The warranty does not cover accidental damage, misuse, or normal wear and tear. Proof of purchase may be requested when a warranty claim is reviewed. Customer support can describe the claim process, but approval is decided after inspection.",
+    "keywords": ["warranty", "manufacturing defect", "repair", "fault", "broken product", "accidental damage", "wear and tear", "proof of purchase"]
+  },
+  {
+    "source_id": "PAYMENT-01",
+    "title": "Accepted payment methods and account safety",
+    "content": "The store accepts UPI, credit cards, debit cards, and net banking. Customer support will never ask for an account password, one-time passcode, CVV, or full card number over chat or email. If a payment appears duplicated, contact customer support with the order number and a description of the issue; do not share authentication secrets.",
+    "keywords": ["payment", "pay", "UPI", "credit card", "debit card", "net banking", "duplicate payment", "password", "OTP", "CVV", "secure"]
+  },
+  {
+    "source_id": "CONTACT-01",
+    "title": "Customer support contact",
+    "content": "For help with store orders and policies, email support@example.com. The team aims to respond within 2 business days. Include only the information needed to identify the order, such as the order number. Never email passwords, one-time passcodes, CVV codes, or full payment-card details. The address and policy information in this demo are fictional.",
+    "keywords": ["contact", "support", "help", "customer service", "email", "response time", "complaint", "agent", "human"]
+  }
+]
